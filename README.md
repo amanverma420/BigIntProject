@@ -23,8 +23,14 @@ This project implements a **Big Integer arithmetic library in C++**. It supports
 Run the executable and input large integers to perform operations interactively.
 
 📸 Screenshots
-![Input](Screenshot 2025-06-23 190536.png)
-![Output](Screenshot 2025-06-23 190732.png)
+## 📸 Screenshots
+
+![Input](Screenshot%202025-06-23%20190536.png)  
+
+Output :->
+
+![Output](Screenshot%202025-06-23%20190732.png)
+
 
 📁 Make sure your screenshots are saved in a folder named screenshots/ inside the project directory.
 
