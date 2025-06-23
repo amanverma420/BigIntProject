@@ -31,9 +31,6 @@ Output :->
 
 ![Output](Screenshot%202025-06-23%20190732.png)
 
-
-📁 Make sure your screenshots are saved in a folder named screenshots/ inside the project directory.
-
 👤 Author
 Aman Verma
 📧 amanv2225@gmail.com
